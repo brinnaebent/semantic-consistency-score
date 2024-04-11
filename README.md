@@ -56,3 +56,6 @@ Code for user research study is available in the user-research subrepository.
 #### Replicating Paper Analysis
 Code for the statistical analysis and plots generated for the paper are located in `analysis.py` and `plots.py`, respectively.
 
+#### LoRA Weights
+Due to the size of the LoRA weights, they are available upon request. Send me an email and I will send a temporary link.
+
