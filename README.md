@@ -50,8 +50,8 @@ dataset = load_dataset("runsdata/semantic-consistency-score")
 #### Semantic Score
 To generate semantic scores for your data, refer to `run_score.py`. For additional details, see `semantic_score.py`.
 
-#### User Research
-Code for user research study is available in the user-research subrepository. 
+#### Annotations
+Code for annotations is available in the annotations subrepository. 
 
 #### Replicating Paper Analysis
 Code for the statistical analysis and plots generated for the paper are located in `analysis.py` and `plots.py`, respectively.
