@@ -1,0 +1,22 @@
+# Machine Learning Libraries
+torch==2.2.1+cu121
+torchvision==0.17.1+cu121
+anthropic==0.19.1
+replicate==0.24.0
+
+# Data Handling and Analysis
+pandas==2.0.3
+numpy==1.25.2
+scipy==1.11.4
+matplotlib==3.7.1
+seaborn==0.13.1
+PIL==9.4.0
+
+# Utility Libraries
+tqdm==4.66.2
+ftfy==6.1.3
+regex==2023.12.25
+gradio==4.26.0
+
+# Repositories (Direct Install)
+git+https://github.com/openai/CLIP.git
